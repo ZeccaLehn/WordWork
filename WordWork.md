@@ -96,7 +96,7 @@ PART 1: WORD FREQUENCIES
 
 
 
-![png](WordWork_files/WordWork_6_0.png)
+![png](https://github.com/ZeccaLehn/WordWork/blob/master/WordWork_6_0.png)
 
 
 
