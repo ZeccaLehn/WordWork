@@ -1,10 +1,10 @@
 # WordWork
-## Generates Scalable Word Counts and Line-by-Line Medians using Python NLP Packages
+## Generates Scalable Word Counts and Aggregated Line-by-Line Medians using Python NLP Packages
 
 To view graphics in an iPython Notebook: 
 http://nbviewer.ipython.org/github/ZeccaLehn/WordWork/blob/master/WordWork.ipynb 
 
-##Instructions(Assumes Linux OS):
+## Instructions (Assumes Linux OS):
 
 1. Download and install current Python Anaconda package 
 2. Clone WordWork repository to `~/anaconda/Examples/` (Alt Steps 3-6 w/out shell script)
