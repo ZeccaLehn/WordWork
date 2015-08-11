@@ -9,7 +9,7 @@ http://nbviewer.ipython.org/github/ZeccaLehn/WordWork/blob/master/WordWork.ipynb
 1. Download and install current Python Anaconda package 
 2. Clone WordWork repository to `~/anaconda/Examples/` (Alt Steps 3-6 w/out shell script)
 3. Run `apt-get install python-nltk` from command line 
-4. Run `souce bin/activate ~/anaconda`  
+4. Run `source bin/activate ~/anaconda`  
 5. While in anaconda kernel, run `ipython notebook --matplotlib=inline` 
 6. When browser opens IPy Notebook, open and run `WordWork.ipynb` for interactivity
 
